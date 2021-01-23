@@ -1,0 +1,38 @@
+
+/*
+.title {
+	
+	color: white;
+	background-color: #3CAEA3;
+	height: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   }
+
+*/ 
+
+li {
+	display: inline;
+	float: left;
+	
+
+}
+
+a {
+  display: block;
+  padding: 8px;
+  color: white;
+  }
+
+ul {
+	background-color: #3CAEA3;
+	height: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center
+
+}
+
+
