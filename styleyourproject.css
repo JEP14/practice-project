@@ -1,0 +1,27 @@
+
+ h1 {
+    border-color: red;
+    border-bottom-style: solid;
+    border-top: 2px solid red;
+    margin: 0%;
+}
+
+body {
+     margin: 1px;
+     } 
+nav {
+    margin: 5px 5px 5px 10px;
+}
+article {
+    margin: 0 25% 0 25%; 
+    border: solid blue 1px;
+    padding: 5px; 
+    outline: 10px red dashed; 
+}
+
+  Footer {
+    position:fixed;
+    bottom:0;
+  }
+
+ 
